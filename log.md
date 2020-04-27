@@ -17,10 +17,19 @@
 
 **Thoughts**: I am still very confused about how to add user input to the game. The room states made sense, but I am not sure if the inventory is correct. So far, it is not throwing errors so it seems ok. 
 
-**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 5
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 5-6
 
-**Time spent**: 1.5 hours
+**Time spent**: 4 hours
 
+### Day 3: April 27
+
+**Today's Progress**: Added validActions functionality so people can do different actions in different rooms. 
+
+**Thoughts**: I think today went ok. There are a bunch of errors though that I need to figure out. I have a really hard time with syntax. I think this is the hardest thing for me. I think I need to work in step by step and test things out. But it is hard when some pieces of the program need variables and things to allow them to do different things. 
+
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 7
+
+**Time spent**: 2 hours
 
 
 Example Log to Copy
