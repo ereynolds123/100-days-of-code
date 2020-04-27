@@ -21,7 +21,7 @@
 
 **Time spent**: 4 hours
 
-### Day 3: April 27
+### Day 2: April 27
 
 **Today's Progress**: Added validActions functionality so people can do different actions in different rooms. 
 
@@ -32,15 +32,3 @@
 **Time spent**: 2 hours
 
 
-Example Log to Copy
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-github.com/ereynolds123/100-days-of-code/edit/master/log.md
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-**Time spent**: 6 hours
