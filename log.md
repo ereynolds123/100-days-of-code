@@ -27,8 +27,17 @@
 
 **Thoughts**: I think today went ok. There are a bunch of errors though that I need to figure out. I have a really hard time with syntax. I think this is the hardest thing for me. I think I need to work in step by step and test things out. But it is hard when some pieces of the program need variables and things to allow them to do different things. 
 
-**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 7
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 7-9
 
-**Time spent**: 2 hours
+**Time spent**: 5 hours
 
+### Day 3: April 28
+
+**Today's Progress**: Made the walking around functionality work in Zork. The setup is pretty much complete, now I got to tie it together with function. 
+
+**Thoughts**: Today went pretty well. But that is only because I used Josh's code pretty close. But I was pretty close myself so I feel good about that.  Tonight we have class, so hopefully that is helpful. I am starting to not hate coding, it is VERY challenging, but I actually like it. It allows you to do cool things. I think I still prefer Wordpress, but this adds a layer of being able to do things. 
+
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 10
+
+**Time spent**: 5 hours
 
