@@ -41,3 +41,12 @@
 
 **Time spent**: 5 hours
 
+### Day 4: April 29
+
+**Today's Progress**: Made the questions and functionality for Zork. It is pretty much finished, though it has some bugs. I also did a Bibliography for myself in HTML. 
+
+**Thoughts**: The Zork game is pretty impossibly difficult. Maybe I will get it the second time around. The HTML felt like an absolute walk in the park. So easy. Maybe I should code more sites from scratch. 
+
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 11 and https://github.com/ereynolds123/practice commit 1
+
+**Time spent**: 1 hours
