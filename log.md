@@ -50,3 +50,13 @@
 **Link(s) to work**: https://github.com/BurlingtonCodeAcademy/zorkington-ereynolds123 commit 11 and https://github.com/ereynolds123/practice commit 1
 
 **Time spent**: 1 hours
+
+### Day 5: April 30
+
+**Today's Progress**: Worked through 7 programming questions with freeCodeCamp. Built a counting cards program. 
+
+**Thoughts**: The freeCodeCamp is pretty nice because it allows me to see hints and the answer when I get completely stuck. I like that the results stay. I am starting to kinda understand Javascript. Certainly all the practice is helping. 
+
+**Link(s) to work**: https://github.com/ereynolds123/practice/blob/master/countingcardsprogram
+
+**Time spent**: 5 hours
