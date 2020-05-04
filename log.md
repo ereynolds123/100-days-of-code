@@ -60,3 +60,24 @@
 **Link(s) to work**: https://github.com/ereynolds123/practice/blob/master/countingcardsprogram
 
 **Time spent**: 5 hours
+
+### Day 6: May 1
+
+**Today's Progress**: Worked through 7 programming questions with freeCodeCamp. 
+
+**Thoughts**: The freeCodeCamp is pretty nice because it allows me to see hints and the answer when I get completely stuck. I like that the results stay. I am starting to kinda understand Javascript. Certainly all the practice is helping. 
+
+**Link(s) to work**: https://github.com/ereynolds123/practice/blob/master/countingcardsprogram
+
+**Time spent**: 2 hours
+
+
+### Day 7: May 3
+
+**Today's Progress**: Read programming concepts book, worked on Horses, Cows and Cemeteries
+
+**Thoughts**: Reading about the basics is very helpful. I think having an in depth theoretical knowledge is good. But, I gotta practice.
+
+**Link(s) to work**: 
+
+**Time spent**: 2 hours
