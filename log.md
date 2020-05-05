@@ -81,3 +81,25 @@
 **Link(s) to work**: 
 
 **Time spent**: 2 hours
+
+
+### Day 8: May 4
+
+**Today's Progress**: Read programming concepts book, worked on Horses, Cows and Cemeteries
+
+**Thoughts**: Reading about the basics is very helpful. I think having an in depth theoretical knowledge is good. But, I gotta practice.
+
+**Link(s) to work**: 
+
+**Time spent**: 1 hours
+
+
+### Day 9: May 5
+
+**Today's Progress**: Worked through FreeCodeCamp's problems. 
+
+**Thoughts**: The problems are starting to get harder. But some of the easier problems are starting to get easier. So this is good. I am unsure how I am going to go from this to a full-fledged programmer. It seems I will need a lot of time. 
+
+**Link(s) to work**: https://github.com/ereynolds123/practice/blob/master/updaterecords.js
+
+**Time spent**: 5 hours
