@@ -103,3 +103,36 @@
 **Link(s) to work**: https://github.com/ereynolds123/practice/blob/master/updaterecords.js
 
 **Time spent**: 5 hours
+
+
+### Day 10: May 11
+
+**Today's Progress**: Worked on tic tact toe game. 
+
+**Thoughts**: This game is super hard. But I need to break it down and it will be easier. 
+
+**Link(s) to work**:
+
+
+**Time spent**: 2 hours
+
+### Day 11: May 12
+
+**Today's Progress**: Worked on tic tact toe game. 
+
+**Thoughts**: This game is super hard. But I need to break it down and it will be easier. 
+
+**Link(s) to work**:
+
+**Time spent**: 2 hours
+
+
+### Day 12: May 13
+
+**Today's Progress**: Worked on tic tact toe game. Got the functionality of adding marks to add. 
+
+**Thoughts**: Breaking it down has helped make it easier. It was really exciting to have something work that I basically did myself. 
+
+**Link(s) to work**: https://github.com/BurlingtonCodeAcademy/tic-tac-toe-ereynolds123/blob/master/main.js commit 1-6
+
+**Time spent**: 2 hours
