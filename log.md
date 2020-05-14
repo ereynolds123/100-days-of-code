@@ -129,10 +129,21 @@
 
 ### Day 12: May 13
 
-**Today's Progress**: Worked on tic tact toe game. Got the functionality of adding marks to add. 
+**Today's Progress**: Worked on tic tact toe game. Got the functionality of adding marks to add. Got the turns to switch
 
 **Thoughts**: Breaking it down has helped make it easier. It was really exciting to have something work that I basically did myself. 
 
 **Link(s) to work**: https://github.com/BurlingtonCodeAcademy/tic-tac-toe-ereynolds123/blob/master/main.js commit 1-6
 
 **Time spent**: 2 hours
+
+
+### Day 13: May 14
+
+**Today's Progress**: Worked on CSS today in class, 
+
+**Thoughts**: Going deeper on CSS was helpful to get more into the weeds. 
+
+**Link(s) to work**: 
+
+**Time spent**: 3 hours
