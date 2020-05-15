@@ -147,3 +147,13 @@
 **Link(s) to work**: 
 
 **Time spent**: 3 hours
+
+### Day 14: May 15
+
+**Today's Progress**: Added button click functionality to both Teams in Horses Cows and Cemeteries
+
+**Thoughts**: Today felt pretty easy besides the git problems I am having. It felt really good to actually get something to work on a project I actually care about. Like it felt amazing! Like I actually had a problem and solved it all by myself, like without any guidance. That is a far cry from where I was even two weeks ago. I can feel the progress which is really good. 
+
+**Link(s) to work**: https://github.com/ereynolds123/Horses-Cows-and-Cemeteries, commit 9-
+
+**Time spent**: 3 hours
