@@ -157,3 +157,13 @@
 **Link(s) to work**: https://github.com/ereynolds123/Horses-Cows-and-Cemeteries, commit 9-
 
 **Time spent**: 3 hours
+
+### Day 14: May 16
+
+**Today's Progress**: Finished all Javascript functionality to the game
+
+**Thoughts**: It is so exciting to actually FINISH something and have it completely work without bugs! And to see it live on the internet. It is so exciting! Now I just need to style it and make it pretty!
+
+
+**Link(s) to work**: horsescowsandcemeteries.com
+**Time spent**: 2 hours
