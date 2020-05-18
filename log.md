@@ -167,3 +167,13 @@
 
 **Link(s) to work**: horsescowsandcemeteries.com
 **Time spent**: 2 hours
+
+### Day 14: May 18
+
+**Today's Progress**: Worked through 52% of the E6 excersizes on freecodecamp
+
+**Thoughts**: I am definitely not a online researcher. I find reading explanations online harder than learning from an actual person. Or maybe I just need to do things twice. Not sure. 
+
+
+**Link(s) to work**: 
+**Time spent**: 1 hours
