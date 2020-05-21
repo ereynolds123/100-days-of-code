@@ -176,4 +176,26 @@
 
 
 **Link(s) to work**: 
+
 **Time spent**: 1 hours
+
+### Day 15: May 19
+
+**Today's Progress**: Worked through 48% of the E6 excersizes on freecodecamp
+
+**Thoughts**: Still finding online lookups challenging. I should be doing my own code. I think this will get better when I start my course. 
+
+
+**Link(s) to work**: freecodecamp.org
+**Time spent**: 1 hours
+
+
+### Day 16: May 21
+
+**Today's Progress**: flex box in class
+
+**Thoughts**:Flex box is useful. I prefer Bootstrap
+
+
+**Link(s) to work**: 
+**Time spent**: 3hours
