@@ -199,3 +199,15 @@
 
 **Link(s) to work**: 
 **Time spent**: 3hours
+
+
+# 100 Days Of Code - Log September 19, 2020 to Dec 8, 2020
+### Day 0: September 19, 2020
+
+**Today's Progress**: I worked on Javascript 30 day 3. I also helped my friend Andrea with her guess the Number project.  
+
+**Thoughts:** I am coming back to this 100 days of code about 3 months later. I took the bootcamp and coded nearly everyday. I took a few weeks off due to trauma and am coming back to code. I am excited to try to code for a 100 days. 
+
+**Link to work:** 
+
+**Time spent**: 3 hours
