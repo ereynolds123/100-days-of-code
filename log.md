@@ -208,6 +208,6 @@
 
 **Thoughts:** I am coming back to this 100 days of code about 3 months later. I took the bootcamp and coded nearly everyday. I took a few weeks off due to trauma and am coming back to code. I am excited to try to code for a 100 days. 
 
-**Link to work:** 
+**Link to work:** https://github.com/ereynolds123/Javascript30/tree/master/03%20-%20CSS%20Variables commits from 09/19/2020
 
 **Time spent**: 3 hours
