@@ -211,3 +211,30 @@
 **Link to work:** https://github.com/ereynolds123/Javascript30/tree/master/03%20-%20CSS%20Variables commits from 09/19/2020
 
 **Time spent**: 3 hours
+
+### Day 1: September 20, 2020
+
+**Today's Progress**: Today I worked with my mentor Yoni and we worked through my resume and discussed the various projects I did and went over the technical details. 
+
+**Thoughts:** I hope an updated resume helps me to get a job. I am getting pretty anxious to get a software job. But it could take months. 
+
+**Link to work:** ### Day 0: September 19, 2020
+
+**Today's Progress**: I worked on Javascript 30 day 3. I also helped my friend Andrea with her guess the Number project.  
+
+**Thoughts:** I am coming back to this 100 days of code about 3 months later. I took the bootcamp and coded nearly everyday. I took a few weeks off due to trauma and am coming back to code. I am excited to try to code for a 100 days. 
+
+**Link to work:** https://www.linkedin.com/in/emily-reynolds-901339183/
+
+**Time spent**: 2 hours
+
+**Link to work:** ### Day 2: September 21, 2020
+
+**Today's Progress**: I worked on integrating vend into shopify for a shopify client. I learned how to do the integration and how to test the integration.I did about an hour of array exercises. This was very useful to practice the various methods on arrays. 
+
+**Thoughts:** It is exciting to working for an actual client. Plus it gives me some spending cash. I hope I get more freelance clients. The array exercises were challenging, but very helpful. 
+
+**Link to work https://github.com/ereynolds123/Javascript30/commit/75e87fe90f4f328e3b86547461a2359da6d9fa9c
+
+**Time spent**: 1.5 hours
+
